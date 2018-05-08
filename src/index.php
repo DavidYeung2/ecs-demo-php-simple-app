@@ -15,9 +15,9 @@
         <div class="container">
             <div class="hero-unit">
                 <img src="assets/images/p7.png" width="250" height="120">
-                <h1>PolarSeven AWS ECS Pipeline Demo</h1>
+                <h1>PolarSeven AWS ECS Pipeline Demo DY</h1>
                 <h2>Congratulations</h2>
-                <h2>THIS IS VERSION 1.4</h2>
+                <h2>THIS IS VERSION 1.4 DY</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
